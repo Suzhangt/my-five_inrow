@@ -1,0 +1,15 @@
+canvas
+{	
+	display: block;
+	margin: 50px auto;
+	box-shadow: -2px -2px 2px #EFEFEF, 10px 5px  5px  #B9b9b9;
+	background-color: gray;
+}
+p
+{
+	position: absolute;
+	top:0px;
+	left:550px;
+	font-size: 20px;
+	color:red;
+}
